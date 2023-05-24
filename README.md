@@ -1,1 +1,2 @@
 # Classification-des-maladies-de-la-plante-de-Mais
+Le projet de classification de la maladie de la plante de maïs en utilisant Deep Learning (inception V3) vise à développer un système de détection et de classification automatique des maladies qui affectent les plantes de maïs. L'objectif principal est d'identifier rapidement et précisément les différentes affections qui peuvent affecter les cultures de maïs, afin de permettre aux agriculteurs de prendre des mesures préventives et de traiter les infections de manière ciblée.
